@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\0626\0626\bin\Debug\0626.exe.config
+C:\Users\USER\Desktop\0626\0626\bin\Debug\0626.exe
+C:\Users\USER\Desktop\0626\0626\bin\Debug\0626.pdb
+C:\Users\USER\Desktop\0626\0626\obj\Debug\MainWindow.g.cs
+C:\Users\USER\Desktop\0626\0626\obj\Debug\UserControl1.g.cs
+C:\Users\USER\Desktop\0626\0626\obj\Debug\App.g.cs
+C:\Users\USER\Desktop\0626\0626\obj\Debug\0626_MarkupCompile.cache
+C:\Users\USER\Desktop\0626\0626\obj\Debug\0626_MarkupCompile.lref
+C:\Users\USER\Desktop\0626\0626\obj\Debug\MainWindow.baml
+C:\Users\USER\Desktop\0626\0626\obj\Debug\UserControl1.baml
+C:\Users\USER\Desktop\0626\0626\obj\Debug\0626.g.resources
+C:\Users\USER\Desktop\0626\0626\obj\Debug\_0626.Properties.Resources.resources
+C:\Users\USER\Desktop\0626\0626\obj\Debug\0626.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\0626\0626\obj\Debug\0626.exe
+C:\Users\USER\Desktop\0626\0626\obj\Debug\0626.pdb
